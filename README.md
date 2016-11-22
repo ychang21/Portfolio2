@@ -1,6 +1,6 @@
 # Portfolio2
 
-[Practice Portfolio with Bootstrap](https://shrouded-woodland-31542.herokuapp.com/)
+[Practice Portfolio with Bootstrap link](https://shrouded-woodland-31542.herokuapp.com/)
 
 ###In this assignment, Bootstrap is used to provide structure to the site. Previously, only HTML and CSS were used. Implementing Bootstrap, allows for an easier way to structure the page and be able to make it more visually appealing to the user. 
 
